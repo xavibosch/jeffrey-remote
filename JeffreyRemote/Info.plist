@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_jeffreyremote._tcp</string>
+	</array>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Jeffrey Remote discovers and connects to your Mac on the same Wi-Fi or Personal Hotspot so the remote controls, screenshots, cursor and media commands work.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Jeffrey Remote listens briefly so you can dictate quick commands and send them to your Mac.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Jeffrey Remote turns short spoken commands into actions for your Mac.</string>
+</dict>
+</plist>
