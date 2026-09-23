@@ -1,0 +1,21 @@
+node_modules/
+.venv/
+venv/
+build/
+dist/
+.next/
+out/
+Pods/
+DerivedData/
+.derivedData/
+*.xcuserdatad/
+*.app/
+.DS_Store
+# secrets: mai
+.env
+.env.*
+*.pem
+*.p8
+*.key
+*.mobileprovision
+GoogleService-Info.plist
