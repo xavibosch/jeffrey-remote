@@ -3564,7 +3564,7 @@ private struct ConnectionSheet: View {
                                 .padding(.vertical, 14)
                                 .background(
                                     RoundedRectangle(cornerRadius: 18, style: .continuous)
-                                        .fill(LinearGradient(colors: [JeffreyPalette.panelRaised.opacity(0.96), JeffreyPalette.panel.opacity(0.94)], startPoint: .topLeading, endPoint: .bottomTrailing))
+                                        .fill(LinearGradient(colors: [JeffreyPalette.panelRaised.opacity(0.96), JeffreyPalette w.panel.opacity(0.94)], startPoint: .topLeading, endPoint: .bottomTrailing))
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 18, style: .continuous)
                                                 .stroke(JeffreyPalette.cyan.opacity(0.45), lineWidth: 1)
